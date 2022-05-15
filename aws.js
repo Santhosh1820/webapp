@@ -1,3 +1,3 @@
-npx create-react-app amplifyapp
-cd amplifyapp
+npx create-react-app webapp
+cd webapp
 npm start
